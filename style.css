@@ -1,0 +1,13 @@
+nav.navbar.navbar-expand-lg.bg-light {
+    background: #606060 !important;
+    color: #fff !important;
+}
+a.navbar-brand {
+    color: #fff !important;
+}
+a.nav-link.active {
+    color: #fff;
+}
+a.nav-link {
+    color: #fff;
+}
